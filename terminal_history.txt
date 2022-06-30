@@ -1,0 +1,492 @@
+   50  cd FinTech-Workspace
+   51  ls
+   52  pwd
+   53  cd Python_Project
+   54  pwd
+   55  ls
+   56  conda activate dev
+   57  python --version
+   58  code .
+   59  code .
+   60  code .
+   61  python hello_python.py
+   62  conda deactivate
+   63  sudo pkill TouchBarServer;
+   64  chsh -s /bin/bash
+   65  pwd
+   66  conda activate dev
+   67  ls
+   68  Desktop
+   69  cd Desktop
+   70  ls
+   71  cd Class_2_Activities
+   72  ls
+   73  python conditionals.py
+   74  conda deactivate
+   75  conda activate dev
+   76  pip -V
+   77  pip freeze
+   78  pip install fire
+   79  pip install questionary
+   80  conda deactivate
+   81  sudo pkill TouchBarServer;
+   82  conda activate dev
+   83  pwd
+   84  cd git
+   85  PWD
+   86  DESKTOP
+   87  desktop
+   88  git clone https://github.com/Nirav-M/ATM-Usecase
+   89  cd atmusecase
+   90  conda deactivate
+   91  pwd
+   92  ls
+   93  Desktop
+   94  ls
+   95  cd ATM-Usecase
+   96  pwd
+   97  ls
+   98  cd ATM
+   99  cd https://github.com/Nirav-M/ATM-Usecase
+  100  pwd
+  101  ls
+  102  Desktop
+  103  ls
+  104  cd ATM-Usecase
+  105  ls
+  106  ls
+  107  pwd
+  108  pwd
+  109  ls
+  110  cd Desktop
+  111  ls
+  112  cd ATM
+  113  pwd
+  114  ls
+  115  git add . 
+  116  git commit -m 'my atm app'
+  117  conda create -n atmdev python=3.7 anaconda
+  118  conda list
+  119  conda activate atm dev
+  120  conda activate atmdev
+  121  ls
+  122  pip install -r requirements.txt
+  123  pip show fire
+  124  ls
+  125  python atm.py
+  126  conda env list
+  127  ls
+  128  pip install -r requirements.txt
+  129  git add -A
+  130  git add .
+  131  git clone git@github.com:Nirav-M/ATM.git
+  132  code . 
+  133  cd dd
+  134  cd ..
+  135  git clone git@github.com:Nirav-M/ATM-3.git
+  136  cd ATM-3
+  137  git add . 
+  138  git status
+  139  git commit -m "initial commit"
+  140  git push
+  141  conda deactivate
+  142  pwd
+  143  ls
+  144  cd Desktop
+  145  ls
+  146  cd 02_Loan_Qualifier_Filtering_Data
+  147  ls
+  148  cd Unsolved
+  149  ls
+  150  conda activate dev
+  151  pwd
+  152  python app.py
+  153  conda deactivate
+  154  ls
+  155  cd Downloads
+  156  ls
+  157  cd 01_Modularize_Your_Loan_Qualifier_Application
+  158  ls
+  159  ls
+  160  cd Downloads
+  161  cd 02_Loan_Qualifier_Filtering_Data/Unsolved
+  162  ls
+  163  conda activate dev
+  164  python app.py
+  165  conda deactivate
+  166  ls
+  167  cd Desktop
+  168  ls
+  169  cd FinTech Camp
+  170  ls
+  171  cd FinTech Camp
+  172  pwd
+  173  ls
+  174  cd Desktop
+  175  ls
+  176  cd FinTech Camp
+  177  ls
+  178  cd FinTech_Camp
+  179  ls
+  180  Desktop
+  181  cd Desktop
+  182  ls
+  183  cd FinTech Camp
+  184  cd FintechCamp
+  185  ls
+  186  cd FinTech Camp
+  187  ls
+  188  cd Desktop
+  189  ls
+  190  cd ATM-3
+  191  ls
+  192  cd ..
+  193  pwd
+  194  ls
+  195  cd FinTech Camp
+  196  ls
+  197  ls
+  198  cd Desktop
+  199  ls
+  200  cd FinTech Camp
+  201  cd "FinTech Camp"
+  202  ls
+  203  cd 02_Loan_Qualifier_App
+  204  ls
+  205  cd Unsolved
+  206  ls
+  207  conda activate dev
+  208  python app.py
+  209  conda deactivate
+  210  pwd
+  211  env
+  212  printenv
+  213  conda activate dev
+  214  conda deactivate
+  215  pip install fire
+  216  pip show fire
+  217  import fire
+  218  conda activate atmdev
+  219  conda list
+  220  conda deactivate
+  221  conda list
+  222  conda install fire -c conda-forge
+  223  conda env list
+  224  conda activate atmdev
+  225  pwd
+  226  ls
+  227  cd Desktop
+  228  ls
+  229  cd ATM-3
+  230  ls
+  231  conda activate atmdev
+  232  python atm.py
+  233  conda deactivate
+  234  cd ..
+  235  pwd
+  236  pwd
+  237  cd ..
+  238  pwd
+  239  pip install questionary
+  240  pwd
+  241  ls
+  242  cd Desktop
+  243  ls
+  244  cd FinTech_Camp
+  245  ls
+  246  cd Python Notes VS Code
+  247  cd 'Python Notes VS Code'
+  248  ls
+  249  conda activate atmdev
+  250  python cli.py
+  251  python cli.py
+  252  python cli.py
+  253  pwd
+  254  ls
+  255  python cli.py --pants=True
+  256  pwd
+  257  ls
+  258  cd ..
+  259  ls
+  260  cd 02_Loan_Qualifier_App
+  261  ls
+  262  cd Unsolved
+  263  ls
+  264  python app.py --credit_score=750 --debt=5000 --income=60000
+  265  conda deactivate
+  266  pwd
+  267  ls
+  268  cd Desktop
+  269  ls
+  270  cs FinTech_Camp
+  271  cd FinTech_Camp
+  272  ls
+  273  cd 02_Loan_Qualifier_App
+  274  ls
+  275  cd Unsolved
+  276  ls
+  277  python app.py
+  278  pwd
+  279  cd Desktop
+  280  ls
+  281  cd FinTech_Camp
+  282  ls
+  283  cd 02_Loan_Qualifier_App
+  284  ls
+  285  cd Unsolved
+  286  ls
+  287  python app.py --credit_score=750
+  288  python app.py --credit_score=750
+  289  conda activate atmdev
+  290  ls
+  291  python app.py --credit_score=750 --debt=5000 --income=60000
+  292  python app.py --credit_score=690 --debt=7000 --income=95000
+  293  python app.py --credit_score=750 --debt=9000 --income=52000
+  294  conda deactivate
+  295  sudo pkill TouchBarServer
+  296  pwd
+  297  ls
+  298  cd Desktop
+  299  ls
+  300  cd FinTech_Camp
+  301  ls
+  302  cd 02_Loan_Qualifier_App
+  303  ls
+  304  cd Unsolved
+  305  ls
+  306  python app.py --credit_score=750 --debt=5000 --income=20000
+  307  canda activate atmdev
+  308  conda activate atmdev
+  309  ls
+  310  python app.py --credit_score=750 --debt=5000 --income=20000
+  311  python app.py --credit_score=750 --debt=5000 --income=20000
+  312  conda deactivate
+  313  cd Desktop
+  314  ls
+  315  cd FinTech_Camp
+  316  ls
+  317  cd 02_Loan_Qualifier_App
+  318  ls
+  319  cd Unsolved
+  320  ls
+  321  conda activate atmdev
+  322  python app.py --credit_score=750 --debt=5000 --income=20000
+  323  python app.py
+  324  python app.py
+  325  python app.py
+  326  python app.py
+  327  python app.py
+  328  python app.py
+  329  python app.py
+  330  python app.py
+  331  python app.py
+  332  python app.py
+  333  python app.py
+  334  conda deactivate
+  335  conda activate dev
+  336  conda list pandas
+  337  conda list jupyterlab
+  338  conda deactivate 
+  339  conda remove --name dev --all
+  340  conda info --envs
+  341  conda update conda 
+  342  conda update anaconda
+  343  conda create -n dev python=3.7 anaconda 
+  344  conda info --envs
+  345  conda actiivate dev
+  346  conda activate dev
+  347  conda list pandas
+  348  conda list jupyterlab
+  349  conda list
+  350  python -m ipykernel install --user --name dev --display-name "Python (dev)"
+  351  jupyterlab
+  352  jupyter lab
+  353  conda deactivate
+  354  pwd
+  355  git config --global user.name Nirav Mehta
+  356  git conofig --global user.email nm7293@gmail.com
+  357  git config --global user.email nm7293@gmail.com
+  358  git config --list
+  359  git config --global user.name 'Nirav Mehta'
+  360  git config --list
+  361  ls
+  362  cd Desktop
+  363  ls
+  364  cd FinTech_Camp
+  365  ls
+  366  git clone https://github.com/Nirav-M/Fintech-Module-2.git
+  367  pwd
+  368  ls
+  369  cd Fintech-Module-2
+  370  pwd
+  371  git status
+  372  git status
+  373  git add README.md
+  374  git status
+  375  touch challenge_2.txt
+  376  ls
+  377  git status
+  378  git add challenge_2.txt
+  379  git status
+  380  git commit -m "Added a line of text to README.md, and created a new file called challenge_2.txt"
+  381  git status
+  382  git push
+  383  git push
+  384  gitpush
+  385  git status
+  386  git push
+  387  git push
+  388  git status
+  389  git commit
+  390  git push
+  391  git config --global user.name Nirav-M
+  392  git config --global user.email nm7293@gmail.com
+  393  git config --list
+  394  ls
+  395  cd Desktop
+  396  ls
+  397  cd FinTech_Camp
+  398  git clone git@github.com:Nirav-M/Fintech-Mod-2-Challenge.git
+  399  pwd
+  400  ls
+  401  cd Fintech-Mod-2-Challenge
+  402  git status
+  403  git add README.md
+  404  git status
+  405  touch mod_2_test
+  406  git status
+  407  touch module_2_test.txt
+  408  git status
+  409  git add module_2_test.txt
+  410  git status
+  411  git commit -m "Edited the readme file, and created a new text file."
+  412  git push
+  413  pwd
+  414  cd ..
+  415  pwd
+  416  ls
+  417  cd 02_Loan_Qualifier_App
+  418  ls
+  419  cd Unsolved
+  420  ls
+  421  conda activate dev
+  422  python app.py
+  423  python app.py
+  424  conda deactivate
+  425  cd Desktop
+  426  ls
+  427  cd FinTech_Camp
+  428  ls
+  429  cd 02_Loan_Qualifier_App
+  430  ls
+  431  cd Unsolved
+  432  ls
+  433  conda activate atmdev
+  434  python app.py
+  435  conda deactivate
+  436  git config --global user.name Nirav-M
+  437  git config --global user.email nm7293@gmail.com
+  438  git config --list
+  439  pwd
+  440  ls
+  441  cd Desktop
+  442  ls
+  443  cd Fintech_Challenge_2
+  444  ls
+  445  git clone git@github.com:Nirav-M/Fintech-Challenge-2-Submission.git
+  446  git status
+  447  git status
+  448  pwd
+  449  ls
+  450  cd Fintech-Challenge-2-Submission
+  451  git status
+  452  git add README.md
+  453  git status
+  454  pwd
+  455  touch mod_2_test.txt
+  456  ls
+  457  git status
+  458  git add mod_2_test.txt
+  459  git status
+  460  git commit -m "In this commit the README.md file was edited, and a new file called mod_2_test.txt was created."
+  461  git status
+  462  git push
+  463  pwd
+  464  cd ..
+  465  ls
+  466  cd Starter_Code
+  467  ls
+  468  cd loan_qualifier_app
+  469  git add loan_qualifier_app
+  470  git push
+  471  pwd
+  472  ls
+  473  git push
+  474  git add loan_qualifier_app
+  475  cd ..
+  476  pwd
+  477  cd ..
+  478  pwd
+  479  ls
+  480  cd Fintech_Challenge_2
+  481  ls
+  482  cd Fintech-Challenge-2-Submission
+  483  git status
+  484  git add README copy.md
+  485  git add app.py
+  486  git add data/
+  487  git add qualifier/
+  488  git add README-copy.md
+  489  git add 'README copy.md'
+  490  git status
+  491  git commit -m "Uploaded all the current project files"
+  492  git push
+  493  git config --global user.name Nirav-M
+  494  git config --global user.email nm7293@gmail.com
+  495  git config --list
+  496  pwd
+  497  ls
+  498  cd Desktop
+  499  git clone git@github.com:Nirav-M/Fintech_Mod2.git
+  500  ls
+  501  cd Fintech_Mod2
+  502  ls
+  503  pwd
+  504  git status
+  505  git status
+  506  git add README.md
+  507  git status
+  508  touch mod2_test.txt
+  509  ls
+  510  git status
+  511  git add mod2_test.txt
+  512  git status
+  513  git commit -m "Edited the README.md file and created a new file: mod2_test.txt."
+  514  git status
+  515  git push
+  516  git status
+  517  git add .
+  518  git status
+  519  git commit -m "Added the starter files for Challenge 2 to the repo."
+  520  git status
+  521  git push
+  522  git status
+  523  git add .
+  524  git status
+  525  git commit -m "Updated the README.md file to more accurately describe the project."
+  526  git status
+  527  git push
+  528  git status
+  529  git add .
+  530  git status
+  531  git commit -m "Added a screen shot of the prompts the user will see when using the app, and included that in the README.md file."
+  532  git status
+  533  git push
+  534  pwd
+  535  git status
+  536  git add .
+  537  git status
+  538  git commit -m "Modified the code base to meet business requirements. App is now able to save the list of qualified loans as a csv file, as well as ask the user whether they want the file saved or not."
+  539  git status
+  540  git push
+  541  pwd
