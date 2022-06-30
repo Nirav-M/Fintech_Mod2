@@ -37,8 +37,9 @@ To use the loan qualifier app, first clone the respository to your local environ
 python app.py
 ```
 
-![These are the prompts you will encounter](images/loan_qualifier.png)
+These are the prompts the user will see when entering their financial data.
 
+![These are the prompts you will encounter](loan_qualifier.png)
 ---
 
 ## Contributors
