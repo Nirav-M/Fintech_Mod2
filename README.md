@@ -1,6 +1,6 @@
 # Loan Qualifier App
 
-This project is an app that allows the user to input financial information, and the app will return a list of banks where the user qualifies for a loan. 
+This project is an app that allows the user to input financial information, and the app will return a list of banks where the user qualifies for a loan, and offers the user the option of saving this list of loans for which they qualify. Also, if there are no banks for which the user qualifies for a loan, the program terminates.
 
 ---
 
